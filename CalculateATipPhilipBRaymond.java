@@ -1,4 +1,5 @@
 /* Philip B. Raymond */
+/* testing comment */
 package pkg2.calculate.a.tip.philipbraymond;
 
 import java.util.Scanner;
